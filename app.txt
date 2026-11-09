@@ -1,1 +1,2 @@
 benign line 1
+malicious line injected
